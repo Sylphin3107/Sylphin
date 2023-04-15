@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string> https://ultralow.dns.nextdns.io/881bd9</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Cấu Hình 1</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.881bd9.profile.dnsSettings.managed</string>
+			<key>PayloadOrganization</key>
+			<string>Sylphin</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.881bd9.dnsSettings.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddress</key>
+				<array>
+					<string>45.90.28.81</string>
+					<string>45.90.30.81</string>
+					<string>2a07:a8c0::a7:cf95</string>
+					<string>2a07:a8c1::a7:cf95</string>
+				</array>
+				<key>ServerURL</key>
+				<string> https://ultralow.dns.nextdns.io/a7cf95</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>Cấu Hình 2</string>
+			<key>PayloadIdentifier</key>
+			<string>io.nextdns.a7cf95.profile.dnsSettings.managed</string>
+			<key>PayloadOrganization</key>
+			<string>Sylphin</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94. dnsSettings.managed</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Sylphin
+ - Tích hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn thu hồi Chứng chỉ 
+
+ - Cấu Hình 1 Dùng Để Xác Minh App
+    Có Tích Hợp Chặn QC  
+ ( Cấu Hình 1 Này Cũng Có Thể Cài App )
+Muốn Chặn Thu Hồi + Chặn Qc thì Ae Dùng Cấu Hình 1
+
+- Cấu Hình 2 Dùng Để Cài App
+Tỉ Lệ Cài App Thành Công Cao
+Có Tích Hợp Chặn Thu Hồi Và Không Có Chặn QC
+Nếu Dùng Cấu Hình 2 Cài App Thành Công Quay lại Cấu Hình 1 Để Xác Minh App
+Nếu Ae Không Muốn Chặn QC Thì Hãy Dùng Cấu Hình Thứ 2 Này Để Chặn Thu Hồi
+
+Lưu Ý Khi Dùng Chặn Thu Hồi
+Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE Và Dùng VPN
+
+
+</string>
+	<key>PayloadDisplayName</key>
+	<string>Sylphin</string>
+	<key>PayloadIdentifier</key>
+	<string>Sylphin</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
