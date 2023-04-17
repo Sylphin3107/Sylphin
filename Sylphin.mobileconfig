@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string> https://ultralow.dns.nextdns.io/881bd9</string>
+				<string>https://apple.dns.nextdns.io/881bd9</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Cấu Hình 1</string>
@@ -38,7 +38,7 @@
 					<string>2a07:a8c1::a7:cf95</string>
 				</array>
 				<key>ServerURL</key>
-				<string> https://ultralow.dns.nextdns.io/a7cf95</string>
+				<string>https://dns.nextdns.io/a7cf95</string>
 			</dict>
 			<key>PayloadDisplayName</key>
 			<string>Cấu Hình 2</string>
@@ -56,7 +56,7 @@
 	</array>
 	<key>PayloadDescription</key>
 	<string>Sylphin
- - Tích hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn thu hồi Chứng chỉ 
+ - Tích Hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn thu hồi Chứng chỉ 
 
  - Cấu Hình 1 Dùng Để Xác Minh App
     Có Tích Hợp Chặn QC  
