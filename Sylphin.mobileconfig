@@ -76,7 +76,7 @@ From Sylphin with Love ♡
 + Cấu hình Xác Minh App (Xác minh ứng dụng cài bên ngoài, tải App và Update App trên Appstore,...)
 Lưu Ý Khi Dùng Chặn Thu Hồi
 - Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
-- Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN hoặc cấu hình DNS nào khác
+- Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
 (Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay)
 </string>
 <key>PayloadDisplayName</key>
