@@ -77,7 +77,8 @@ From Sylphin with Love ♡
 Lưu Ý Khi Dùng Chặn Thu Hồi
 - Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
 - Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
-(Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay)
+(Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
+Muốn bật VPN thì xóa hết tất cả các app cài bên ngoài đi, dùng xong rồi thì tắt VPN để DNS xác minh tầm 5 phút rồi cài lại)
 </string>
 <key>PayloadDisplayName</key>
 <string>Cấu Hình Chặn Thu Hồi By Sylphin</string>
