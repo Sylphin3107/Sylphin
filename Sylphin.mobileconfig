@@ -68,13 +68,15 @@
 
 </array>
 <key>PayloadDescription</key>
-<string>From Sylphin with Love ♡
+<string>
+From Sylphin with Love ♡
 - Tích Hợp 3 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
 + Cấu hình Chặn Thu Hồi và Quảng Cáo (nên dùng)
 + Cấu hình Chặn Thu Hồi (dùng khi không muốn Chặn Quảng Cáo, đăng nhập tài khoản Garena Liên Quân không bị lỗi cookie)
 + Cấu hình Xác Minh App (Xác minh ứng dụng cài bên ngoài, tải App và Update App trên Appstore,...)
 Lưu Ý Khi Dùng Chặn Thu Hồi
-Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN hoặc cấu hình DNS nào khác
+- Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
+- Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN hoặc cấu hình DNS nào khác
 (Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay)
 </string>
 <key>PayloadDisplayName</key>
