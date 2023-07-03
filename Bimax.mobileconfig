@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+
+       <dict>
+       <key>DNSSettings</key>
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/a7cf95</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu Hồi không chặn Quảng Cáo</string>
+	<key>PayloadIdentifier</key>
+	<string>2222222</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>2222222</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSSettings</key>
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/881bd9</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu Hồi Và Quảng Cáo</string>
+	<key>PayloadIdentifier</key>
+	<string>3333333</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>3333333</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+</array>
+<key>PayloadDescription</key>
+<string>
+Bimax
+- Tích Hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
++ Cấu hình Chặn Thu Hồi và Quảng Cáo
++ Cấu hình Chặn Thu Hồi
+Lưu Ý Khi Dùng Chặn Thu Hồi
+- Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
+- Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
+(Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
+Muốn bật VPN thì xóa hết tất cả các app cài bên ngoài đi, dùng xong rồi thì tắt VPN để DNS Chặn Thu Hồi tầm 5 phút rồi cài lại)
+</string>
+<key>PayloadDisplayName</key>
+<string>Cấu Hình Chặn Thu Hồi By Bimax</string>
+<key>PayloadIdentifier</key>
+<string>Bimax</string>
+<key>PayloadRemovalDisallowed</key>
+<false/>
+<key>PayloadScope</key>
+<string>User</string>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>00000000</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</plist>
