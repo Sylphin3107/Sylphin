@@ -11,36 +11,16 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-       <string>https://ultralow.dns.nextdns.io/aab37f</string>
-	</dict>
-	<key>PayloadDisplayName</key>
-	<string>Xác Minh App</string>
-	<key>PayloadIdentifier</key>
-	<string>11111111</string>
-	<key>PayloadType</key>
-<string>com.apple.dnsSettings.managed</string>
-	<key>PayloadUUID</key>
-	<string>111111111</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-       </dict>
-
-       <dict>
-       <key>DNSSettings</key>
-       <dict>
-       <key>DNSProtocol</key>
-       <string>HTTPS</string>
-       <key>ServerURL</key>
 	<string>https://ultralow.dns.nextdns.io/a7cf95</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu Hồi</string>
+	<string>Chặn Thu Hồi không chặn Quảng Cáo</string>
 	<key>PayloadIdentifier</key>
-	<string>2222222</string>
+	<string>1111111</string>
 	<key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 	<key>PayloadUUID</key>
-	<string>2222222</string>
+	<string>1111111</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
        </dict>
@@ -65,34 +45,12 @@
 	<integer>1</integer>
        </dict>
 
-       <dict>
-       <key>DNSSettings</key>
-       <dict>
-       <key>DNSProtocol</key>
-       <string>HTTPS</string>
-       <key>ServerURL</key>
-	<string>https://apple.dns.nextdns.io/d3b5bf</string>
-	</dict>
-	<key>PayloadDisplayName</key>
-	<string>Xác minh App (Phụ)</string>
-	<key>PayloadIdentifier</key>
-	<string>4444444</string>
-	<key>PayloadType</key>
-<string>com.apple.dnsSettings.managed</string>
-	<key>PayloadUUID</key>
-	<string>4444444</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-       </dict>
-
 </array>
 <key>PayloadDescription</key>
-<string>
-From Sylphin with Love ♡
-- Tích Hợp 3 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
+<string>From Sylphin with Love ♡
+- Tích Hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
 + Cấu hình Chặn Thu Hồi và Quảng Cáo (nên dùng)
 + Cấu hình Chặn Thu Hồi (dùng khi không muốn Chặn Quảng Cáo, đăng nhập tài khoản Garena Liên Quân không bị lỗi cookie)
-+ Cấu hình Xác Minh App (Xác minh ứng dụng cài bên ngoài, tải App và Update App trên Appstore,...)
 Lưu Ý Khi Dùng Chặn Thu Hồi
 - Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
 - Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
