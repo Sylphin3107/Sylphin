@@ -11,16 +11,36 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/a7cf95</string>
+	<string>https://ultralow.dns.nextdns.io/aab37f</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu Hồi không chặn Quảng Cáo</string>
+	<string>Chặn Thu Hồi</string>
 	<key>PayloadIdentifier</key>
 	<string>1111111</string>
 	<key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 	<key>PayloadUUID</key>
 	<string>1111111</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+<dict>
+       <key>DNSSettings</key>
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/a7cf95</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Quảng Cáo (Nhẹ)</string>
+	<key>PayloadIdentifier</key>
+	<string>2222222</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>2222222</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
        </dict>
@@ -34,7 +54,7 @@
 	<string>https://ultralow.dns.nextdns.io/881bd9</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu Hồi Và Quảng Cáo</string>
+	<string>Chặn Quảng Cáo (Mạnh)</string>
 	<key>PayloadIdentifier</key>
 	<string>3333333</string>
 	<key>PayloadType</key>
@@ -48,10 +68,10 @@
 </array>
 <key>PayloadDescription</key>
 <string>From Sylphin with Love ♡
-- Tích Hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
-+ Cấu hình Chặn Thu Hồi và Quảng Cáo (nên dùng)
-+ Cấu hình Chặn Thu Hồi (dùng khi không muốn Chặn Quảng Cáo, đăng nhập tài khoản Garena Liên Quân không bị lỗi cookie)
-Lưu Ý Khi Dùng Chặn Thu Hồi
+- Tích Hợp 3 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
++ Cấu hình Chặn Thu Hồi không chặn Quảng Cáo
++ Cấu hình Chặn Thu Hồi và chặn Quảng Cáo trong Game, không chặn Quảng Cáo trên trình duyệt web (Nhẹ)
++ Cấu hình Chặn Thu Hồi và chặn tất cả Quảng Cáo (Mạnh)
 - Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
 - Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
 (Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
