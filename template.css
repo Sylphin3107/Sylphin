@@ -203,7 +203,6 @@ input[type=range]:focus::-webkit-slider-runnable-track {
 
 }
 
-
 .menuview.current {
     display:block;
     overflow-x: hidden;
