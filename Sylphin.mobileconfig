@@ -11,46 +11,278 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/a7cf95</string>
+	<string>https://ultralow.dns.nextdns.io/95d1b6</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Quảng Cáo (Nhẹ)</string>
+	<string>Chặn Thu hồi 1</string>
 	<key>PayloadIdentifier</key>
-	<string>2222222</string>
+	<string>1</string>
 	<key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 	<key>PayloadUUID</key>
-	<string>2222222</string>
+	<string>1</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
        </dict>
 
-       <dict>
-       <key>DNSSettings</key>
+       
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/881bd9</string>
+	<string>https://ultralow.dns.nextdns.io/14ca2e</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Quảng Cáo (Mạnh)</string>
+	<string>Chặn Thu hồi 2</string>
 	<key>PayloadIdentifier</key>
-	<string>3333333</string>
+	<string>2</string>
 	<key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 	<key>PayloadUUID</key>
-	<string>3333333</string>
+	<string>2</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/5dd758</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 3</string>
+	<key>PayloadIdentifier</key>
+	<string>3</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>3</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/51a21d</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 4</string>
+	<key>PayloadIdentifier</key>
+	<string>4</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>4</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/34916e</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 5</string>
+	<key>PayloadIdentifier</key>
+	<string>5</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/5a64e3</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 6</string>
+	<key>PayloadIdentifier</key>
+	<string>6</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>6</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/ad7d4e</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 7</string>
+	<key>PayloadIdentifier</key>
+	<string>7</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>7</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/6663ca</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 8</string>
+	<key>PayloadIdentifier</key>
+	<string>8</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>8</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/7fb911</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 9</string>
+	<key>PayloadIdentifier</key>
+	<string>9</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/63c47d</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 10</string>
+	<key>PayloadIdentifier</key>
+	<string>10</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>10</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/d5c6cc</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 11</string>
+	<key>PayloadIdentifier</key>
+	<string>11</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>11</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/83b28b</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 12</string>
+	<key>PayloadIdentifier</key>
+	<string>12</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>12</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/a114c9</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 13</string>
+	<key>PayloadIdentifier</key>
+	<string>13</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>13</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/ca8382</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 14</string>
+	<key>PayloadIdentifier</key>
+	<string>14</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>14</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+       <dict>
+       <key>DNSProtocol</key>
+       <string>HTTPS</string>
+       <key>ServerURL</key>
+	<string>https://ultralow.dns.nextdns.io/381be6</string>
+	</dict>
+	<key>PayloadDisplayName</key>
+	<string>Chặn Thu hồi 15</string>
+	<key>PayloadIdentifier</key>
+	<string>15</string>
+	<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+	<key>PayloadUUID</key>
+	<string>15</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+       </dict>
+
+
 </array>
 <key>PayloadDescription</key>
 <string>From Sylphin with Love ♡
-- Tích Hợp 2 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
-+ Cấu hình Chặn Thu Hồi và chặn Quảng Cáo trong Game, không chặn Quảng Cáo trên trình duyệt web (Nhẹ)
-+ Cấu hình Chặn Thu Hồi và chặn tất cả Quảng Cáo (Mạnh)
+- Tích Hợp 15 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ
 - Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
 - Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
 (Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
