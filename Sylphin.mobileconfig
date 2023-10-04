@@ -5,7 +5,7 @@
 <key>PayloadContent</key>
 <array>
 
-<dict>
+       <dict>
        <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
@@ -14,7 +14,7 @@
 	<string>https://ultralow.dns.nextdns.io/95d1b6</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 1</string>
+	<string>Chặn Thu Hồi 1</string>
 	<key>PayloadIdentifier</key>
 	<string>1111111</string>
 	<key>PayloadType</key>
@@ -25,7 +25,8 @@
 	<integer>1</integer>
        </dict>
 
-       
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -33,7 +34,7 @@
 	<string>https://ultralow.dns.nextdns.io/14ca2e</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 2</string>
+	<string>Chặn Thu Hồi 2</string>
 	<key>PayloadIdentifier</key>
 	<string>2222222</string>
 	<key>PayloadType</key>
@@ -44,6 +45,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -51,7 +54,7 @@
 	<string>https://ultralow.dns.nextdns.io/5dd758</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 3</string>
+	<string>Chặn Thu Hồi 3</string>
 	<key>PayloadIdentifier</key>
 	<string>3333333</string>
 	<key>PayloadType</key>
@@ -61,7 +64,8 @@
 	<key>PayloadVersion</key>
 	<integer>1</integer>
        </dict>
-
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -69,7 +73,7 @@
 	<string>https://ultralow.dns.nextdns.io/51a21d</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 4</string>
+	<string>Chặn Thu Hồi 4</string>
 	<key>PayloadIdentifier</key>
 	<string>4444444</string>
 	<key>PayloadType</key>
@@ -80,6 +84,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -87,7 +93,7 @@
 	<string>https://ultralow.dns.nextdns.io/34916e</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 5</string>
+	<string>Chặn Thu Hồi 5</string>
 	<key>PayloadIdentifier</key>
 	<string>5555555</string>
 	<key>PayloadType</key>
@@ -98,6 +104,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -105,7 +113,7 @@
 	<string>https://ultralow.dns.nextdns.io/5a64e3</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 6</string>
+	<string>Chặn Thu Hồi 6</string>
 	<key>PayloadIdentifier</key>
 	<string>6666666</string>
 	<key>PayloadType</key>
@@ -116,6 +124,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -123,7 +133,7 @@
 	<string>https://ultralow.dns.nextdns.io/ad7d4e</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 7</string>
+	<string>Chặn Thu Hồi 7</string>
 	<key>PayloadIdentifier</key>
 	<string>7777777</string>
 	<key>PayloadType</key>
@@ -134,6 +144,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -141,7 +153,7 @@
 	<string>https://ultralow.dns.nextdns.io/6663ca</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 8</string>
+	<string>Chặn Thu Hồi 8</string>
 	<key>PayloadIdentifier</key>
 	<string>8888888</string>
 	<key>PayloadType</key>
@@ -152,6 +164,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -159,7 +173,7 @@
 	<string>https://ultralow.dns.nextdns.io/7fb911</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 9</string>
+	<string>Chặn Thu Hồi 9</string>
 	<key>PayloadIdentifier</key>
 	<string>9999999</string>
 	<key>PayloadType</key>
@@ -170,6 +184,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -177,7 +193,7 @@
 	<string>https://ultralow.dns.nextdns.io/63c47d</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 10</string>
+	<string>Chặn Thu Hồi 10</string>
 	<key>PayloadIdentifier</key>
 	<string>1010101</string>
 	<key>PayloadType</key>
@@ -188,6 +204,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -195,17 +213,19 @@
 	<string>https://ultralow.dns.nextdns.io/d5c6cc</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 11</string>
+	<string>Chặn Thu Hồi 11</string>
 	<key>PayloadIdentifier</key>
-	<string>1112121</string>
+	<string>1123456</string>
 	<key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 	<key>PayloadUUID</key>
-	<string>1112121</string>
+	<string>1123456</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -213,7 +233,7 @@
 	<string>https://ultralow.dns.nextdns.io/83b28b</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 12</string>
+	<string>Chặn Thu Hồi 12</string>
 	<key>PayloadIdentifier</key>
 	<string>1212121</string>
 	<key>PayloadType</key>
@@ -224,6 +244,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -231,7 +253,7 @@
 	<string>https://ultralow.dns.nextdns.io/a114c9</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 13</string>
+	<string>Chặn Thu Hồi 13</string>
 	<key>PayloadIdentifier</key>
 	<string>1313131</string>
 	<key>PayloadType</key>
@@ -242,6 +264,8 @@
 	<integer>1</integer>
        </dict>
 
+       <dict>
+       <key>DNSSettings</key>
        <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
@@ -249,7 +273,7 @@
 	<string>https://ultralow.dns.nextdns.io/ca8382</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 14</string>
+	<string>Chặn Thu Hồi 14</string>
 	<key>PayloadIdentifier</key>
 	<string>1414141</string>
 	<key>PayloadType</key>
@@ -261,13 +285,15 @@
        </dict>
 
        <dict>
+       <key>DNSSettings</key>
+       <dict>
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
 	<string>https://ultralow.dns.nextdns.io/381be6</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Chặn Thu hồi 15</string>
+	<string>Chặn Thu Hồi 15</string>
 	<key>PayloadIdentifier</key>
 	<string>1515151</string>
 	<key>PayloadType</key>
@@ -278,11 +304,10 @@
 	<integer>1</integer>
        </dict>
 
-
 </array>
 <key>PayloadDescription</key>
 <string>From Sylphin with Love ♡
-- Tích Hợp 15 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ
+- Tích Hợp 15 Cấu Hình DNS Đều Có Tác Dụng Chặn Thu Hồi Chứng Chỉ 
 - Cài xong nên để khoảng 5 phút rồi mới cài app bên ngoài.
 - Nghiêm Cấm : Tắt Nguồn - Sập Nguồn - Khởi Động Lại IPHONE - Dùng VPN, chỉnh DNS qua tự động hoặc dùng cấu hình DNS nào khác
 (Muốn tắt nguồn khởi động lại thì bật chế độ máy bay rồi tắt, sau khi khởi động lại để máy chạy 2-3p rồi mới tắt máy bay.
