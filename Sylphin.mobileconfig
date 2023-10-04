@@ -11,7 +11,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/95d1b6</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 1</string>
@@ -31,7 +31,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/14ca2e</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 2</string>
@@ -51,7 +51,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/5dd758</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 3</string>
@@ -70,7 +70,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/51a21d</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 4</string>
@@ -90,7 +90,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/34916e</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 5</string>
@@ -110,7 +110,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/5a64e3</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 6</string>
@@ -130,7 +130,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/ad7d4e</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 7</string>
@@ -150,7 +150,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/6663ca</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 8</string>
@@ -170,7 +170,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/7fb911</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 9</string>
@@ -190,7 +190,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/63c47d</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 10</string>
@@ -210,7 +210,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/d5c6cc</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 11</string>
@@ -230,7 +230,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/83b28b</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 12</string>
@@ -250,7 +250,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/a114c9</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 13</string>
@@ -270,7 +270,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/ca8382</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 14</string>
@@ -290,7 +290,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/381be6</string>
+	<string>https://ultralow.dns.nextdns.io/</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi 15</string>
