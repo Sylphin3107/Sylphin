@@ -11,7 +11,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://g1fx8yzgy3.cloudflare-gateway.com/dns-query</string>
+	<string>https://1ggfioqk1j.cloudflare-gateway.com/dns-query</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Chặn Thu Hồi </string>
