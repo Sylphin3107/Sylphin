@@ -1,8 +1,6 @@
 ocsp2.apple.com
 ocsp.apple.com
 ocsp.digicert.com
-subca.ocsp-certum.com
-dvcasha2.ocsp-certum.com
 certs.apple.com
 zerossl.ocsp.sectigo.com
 ocsp.sectigo.com
@@ -10,8 +8,11 @@ ocsp.entrust.net
 ocsp.entrust.com
 ocsp2.g.aaplimg.com
 ocsp2-lb.apple.com.akadns.net
-ocsp.globalsign.com
-ocsp2.globalsign.com
-ocsp.trust-provider.cn
-ocsp.usertrust.com
 valid.apple.com
+iadsdk.apple.com
+ca.iadsdk.apple.com
+cf.iadsdk.apple.com
+tr.iadsdk.apple.com
+gdmf.apple.com
+mesu.apple.com
+world-gen.g.aaplimg.com
