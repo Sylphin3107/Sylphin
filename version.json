@@ -1,4 +1,4 @@
 {
     "status1": "true",
-    "version1": "0.1"
+    "version1": "0.2"
 }
