@@ -25,25 +25,6 @@
 	<integer>1</integer>
        </dict>
 
-<dict>
-       <key>DNSSettings</key>
-       <dict>
-       <key>DNSProtocol</key>
-       <string>HTTPS</string>
-       <key>ServerURL</key>
-	<string>https://g1fx8yzgy3.cloudflare-gateway.com/dns-query</string>
-	</dict>
-	<key>PayloadDisplayName</key>
-	<string>Antiban Host LQ </string>
-	<key>PayloadIdentifier</key>
-	<string>2222222</string>
-	<key>PayloadType</key>
-<string>com.apple.dnsSettings.managed</string>
-	<key>PayloadUUID</key>
-	<string>2222222</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-       </dict>
 
 </array>
 <key>PayloadDescription</key>
